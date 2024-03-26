@@ -5,7 +5,7 @@ The AMAIRL method was implemented from scratch while the other two algorithms we
 
 [^3]:  https://github.com/ermongroup/MA-AIRL
 [^4]:  https://github.com/qzed/irl-maxent
-[^1]: Y. Fukumoto, M. Tadokoro and K. Takadama, "Cooperative Multi-agent Inverse Reinforcement Learning Based on Selfish Expert and its Behavior Archives," 2020 IEEE Symposium Series on Computational Intelligence (SSCI), Canberra, ACT, Australia, 2020, pp. 2202-2209, doi: 10.1109/SSCI47803.2020.9308491. keywords: {Trajectory;Reinforcement learning;Entropy;Probability;Nash equilibrium;Informatics;Search problems;inverse reinforcement learning;multi-agent system;Q-learning;maze problem},
+[^1]: Y. Fukumoto, M. Tadokoro and K. Takadama, "Cooperative Multi-agent Inverse Reinforcement Learning Based on Selfish Expert and its Behavior Archives," 2020 IEEE Symposium Series on Computational Intelligence (SSCI), Canberra, ACT, Australia, 2020, pp. 2202-2209, doi: 10.1109/SSCI47803.2020.9308491.
 [^2]: Yu, L., Song, J. &amp; Ermon, S.. (2019). Multi-Agent Adversarial Inverse Reinforcement Learning. <i>Proceedings of the 36th International Conference on Machine Learning</i>, in <i>Proceedings of Machine Learning Research</i> 97:7194-7201 Available from https://proceedings.mlr.press/v97/yu19e.html.
 
 
